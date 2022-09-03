@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\AppPinjamBuku.exe
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\AppPinjamBuku.deps.json
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\AppPinjamBuku.runtimeconfig.json
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\AppPinjamBuku.dll
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\ref\AppPinjamBuku.dll
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\bin\Debug\net6.0\AppPinjamBuku.pdb
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.dll
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\ref\AppPinjamBuku.dll
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.pdb
+C:\Users\muham\OneDrive\Documents\Kuliah\PROGDAS\C++\AppPinjamBuku\obj\Debug\net6.0\AppPinjamBuku.genruntimeconfig.cache
