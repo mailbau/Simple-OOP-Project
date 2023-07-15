@@ -17,7 +17,7 @@ namespace AppPinjamBuku
             {
                 Book book = new Book();
                 Console.WriteLine("\nIsi keterangan berikut ini: ");
-                Console.WriteLine("\nNama anda: ");
+                Console.WriteLine("\nNama Lengkap anda: ");
                 string name = Console.ReadLine();
                 Console.WriteLine("Judul buku: ");
                 book.Title = Console.ReadLine();
